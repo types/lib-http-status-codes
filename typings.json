@@ -1,0 +1,5 @@
+{
+  "name": "global-http-status-codes",
+  "main": "http-status-codes.d.ts",
+  "version": "1.0.0"
+}
