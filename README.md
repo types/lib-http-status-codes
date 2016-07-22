@@ -8,7 +8,7 @@ with it's code number at compile time.
 Just install the typings:
 
 ```
-typings install --save --global http-status-codes
+typings install --save --global lib~http-status-codes
 ```
 
 And use it:
@@ -20,6 +20,8 @@ const ok = HTTPStatusCodes.OK;
 ok === 200 // true
 
 ```
+
+To see the full list checkout the typings file.
 
 **Note**: Make sure `--preserveConstEnums` is not passed to the compiler.
 
