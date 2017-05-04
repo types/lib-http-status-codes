@@ -1,5 +1,7 @@
 # HTTP Status Codes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/lib-http-status-codes.svg)](https://greenkeeper.io/)
+
 This type defintion utilizes the 
 [const enum](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md#94-constant-enum-declarations)
 feature of typescript to replace the status code name
